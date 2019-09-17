@@ -8,7 +8,8 @@ h2
 }
 body,html
 {
-    background-image: linear-gradient(rgba(27, 79, 182, 0.95),rgba(165, 224, 92, 0.81)),url("https://pixabay.com/photos/young-plant-green-pot-spring-2846150/");
+    background-image: linear-gradient(rgba(4, 58, 108, 0.94),rgba(55, 122, 0, 0.76),rgba(0, 112, 67, 0.93)),
+        url("https://cdn.pixabay.com/photo/2017/10/12/22/03/young-2846150_960_720.jpg");
     color: lightskyblue;
     text-align: left;
     font-size: 19;
