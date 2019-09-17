@@ -1,1 +1,18 @@
-
+h1
+{
+    
+}
+h2
+{
+    color: aliceblue;
+}
+body,html
+{
+    background-image: linear-gradient(rgba(27, 79, 182, 0.95),rgba(165, 224, 92, 0.81)),url("https://pixabay.com/photos/young-plant-green-pot-spring-2846150/");
+    color: lightskyblue;
+    text-align: left;
+    font-size: 19;
+    background-image: ;
+    background-size: cover,cover;
+    background-repeat: no-repeat, no-repeat;
+}
